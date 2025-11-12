@@ -1,0 +1,7 @@
+C:\Users\khali\source\repos\Delegation test1 (Delegation)\obj\Debug\Delegation test1 (Delegation).csproj.AssemblyReference.cache
+C:\Users\khali\source\repos\Delegation test1 (Delegation)\obj\Debug\Delegation test1 (Delegation).csproj.CoreCompileInputs.cache
+C:\Users\khali\source\repos\Delegation test1 (Delegation)\bin\Debug\Delegation test1 (Delegation).exe.config
+C:\Users\khali\source\repos\Delegation test1 (Delegation)\bin\Debug\Delegation test1 (Delegation).exe
+C:\Users\khali\source\repos\Delegation test1 (Delegation)\bin\Debug\Delegation test1 (Delegation).pdb
+C:\Users\khali\source\repos\Delegation test1 (Delegation)\obj\Debug\Delegation test1 (Delegation).exe
+C:\Users\khali\source\repos\Delegation test1 (Delegation)\obj\Debug\Delegation test1 (Delegation).pdb

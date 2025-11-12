@@ -1,0 +1,7 @@
+C:\Users\khali\source\repos\Delegate test (Multicast)\bin\Debug\Delegate test (Multicast).exe.config
+C:\Users\khali\source\repos\Delegate test (Multicast)\bin\Debug\Delegate test (Multicast).exe
+C:\Users\khali\source\repos\Delegate test (Multicast)\bin\Debug\Delegate test (Multicast).pdb
+C:\Users\khali\source\repos\Delegate test (Multicast)\obj\Debug\Delegate test (Multicast).csproj.AssemblyReference.cache
+C:\Users\khali\source\repos\Delegate test (Multicast)\obj\Debug\Delegate test (Multicast).csproj.CoreCompileInputs.cache
+C:\Users\khali\source\repos\Delegate test (Multicast)\obj\Debug\Delegate test (Multicast).exe
+C:\Users\khali\source\repos\Delegate test (Multicast)\obj\Debug\Delegate test (Multicast).pdb
