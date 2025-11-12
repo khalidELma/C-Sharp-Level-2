@@ -1,0 +1,7 @@
+C:\Users\khali\source\repos\XML Serialization\bin\Debug\XML Serialization.exe.config
+C:\Users\khali\source\repos\XML Serialization\bin\Debug\XML Serialization.exe
+C:\Users\khali\source\repos\XML Serialization\bin\Debug\XML Serialization.pdb
+C:\Users\khali\source\repos\XML Serialization\obj\Debug\XML Serialization.csproj.AssemblyReference.cache
+C:\Users\khali\source\repos\XML Serialization\obj\Debug\XML Serialization.csproj.CoreCompileInputs.cache
+C:\Users\khali\source\repos\XML Serialization\obj\Debug\XML Serialization.exe
+C:\Users\khali\source\repos\XML Serialization\obj\Debug\XML Serialization.pdb

@@ -1,0 +1,7 @@
+C:\Users\khali\source\repos\Json Serialization\bin\Debug\Json Serialization.exe.config
+C:\Users\khali\source\repos\Json Serialization\bin\Debug\Json Serialization.exe
+C:\Users\khali\source\repos\Json Serialization\bin\Debug\Json Serialization.pdb
+C:\Users\khali\source\repos\Json Serialization\obj\Debug\Json Serialization.csproj.AssemblyReference.cache
+C:\Users\khali\source\repos\Json Serialization\obj\Debug\Json Serialization.csproj.CoreCompileInputs.cache
+C:\Users\khali\source\repos\Json Serialization\obj\Debug\Json Serialization.exe
+C:\Users\khali\source\repos\Json Serialization\obj\Debug\Json Serialization.pdb
