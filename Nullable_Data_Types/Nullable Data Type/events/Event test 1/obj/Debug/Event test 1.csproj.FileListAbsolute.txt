@@ -1,0 +1,11 @@
+C:\Users\khali\source\repos\Event test 1\bin\Debug\Event test 1.exe.config
+C:\Users\khali\source\repos\Event test 1\bin\Debug\Event test 1.exe
+C:\Users\khali\source\repos\Event test 1\bin\Debug\Event test 1.pdb
+C:\Users\khali\source\repos\Event test 1\obj\Debug\Event test 1.csproj.AssemblyReference.cache
+C:\Users\khali\source\repos\Event test 1\obj\Debug\Event_test_1.Caluclater.resources
+C:\Users\khali\source\repos\Event test 1\obj\Debug\Event_test_1.Form1.resources
+C:\Users\khali\source\repos\Event test 1\obj\Debug\Event_test_1.Properties.Resources.resources
+C:\Users\khali\source\repos\Event test 1\obj\Debug\Event test 1.csproj.GenerateResource.cache
+C:\Users\khali\source\repos\Event test 1\obj\Debug\Event test 1.csproj.CoreCompileInputs.cache
+C:\Users\khali\source\repos\Event test 1\obj\Debug\Event test 1.exe
+C:\Users\khali\source\repos\Event test 1\obj\Debug\Event test 1.pdb
