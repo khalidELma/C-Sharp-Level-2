@@ -1,0 +1,7 @@
+C:\Users\khali\source\repos\RequiredAttribute\bin\Debug\RequiredAttribute.exe.config
+C:\Users\khali\source\repos\RequiredAttribute\bin\Debug\RequiredAttribute.exe
+C:\Users\khali\source\repos\RequiredAttribute\bin\Debug\RequiredAttribute.pdb
+C:\Users\khali\source\repos\RequiredAttribute\obj\Debug\RequiredAttribute.csproj.AssemblyReference.cache
+C:\Users\khali\source\repos\RequiredAttribute\obj\Debug\RequiredAttribute.csproj.CoreCompileInputs.cache
+C:\Users\khali\source\repos\RequiredAttribute\obj\Debug\RequiredAttribute.exe
+C:\Users\khali\source\repos\RequiredAttribute\obj\Debug\RequiredAttribute.pdb

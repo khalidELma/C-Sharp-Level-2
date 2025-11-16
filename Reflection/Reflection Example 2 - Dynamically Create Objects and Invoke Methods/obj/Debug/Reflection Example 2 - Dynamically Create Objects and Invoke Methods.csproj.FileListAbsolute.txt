@@ -1,0 +1,7 @@
+C:\Users\khali\source\repos\Reflection Example 2 - Dynamically Create Objects and Invoke Methods\bin\Debug\Reflection Example 2 - Dynamically Create Objects and Invoke Methods.exe.config
+C:\Users\khali\source\repos\Reflection Example 2 - Dynamically Create Objects and Invoke Methods\bin\Debug\Reflection Example 2 - Dynamically Create Objects and Invoke Methods.exe
+C:\Users\khali\source\repos\Reflection Example 2 - Dynamically Create Objects and Invoke Methods\bin\Debug\Reflection Example 2 - Dynamically Create Objects and Invoke Methods.pdb
+C:\Users\khali\source\repos\Reflection Example 2 - Dynamically Create Objects and Invoke Methods\obj\Debug\Reflection Example 2 - Dynamically Create Objects and Invoke Methods.csproj.AssemblyReference.cache
+C:\Users\khali\source\repos\Reflection Example 2 - Dynamically Create Objects and Invoke Methods\obj\Debug\Reflection Example 2 - Dynamically Create Objects and Invoke Methods.csproj.CoreCompileInputs.cache
+C:\Users\khali\source\repos\Reflection Example 2 - Dynamically Create Objects and Invoke Methods\obj\Debug\Reflection Example 2 - Dynamically Create Objects and Invoke Methods.exe
+C:\Users\khali\source\repos\Reflection Example 2 - Dynamically Create Objects and Invoke Methods\obj\Debug\Reflection Example 2 - Dynamically Create Objects and Invoke Methods.pdb
