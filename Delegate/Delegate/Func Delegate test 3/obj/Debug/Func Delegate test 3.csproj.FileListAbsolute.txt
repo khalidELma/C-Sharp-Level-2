@@ -1,7 +1,0 @@
-C:\Users\khali\source\repos\Func Delegate test 3\bin\Debug\Func Delegate test 3.exe.config
-C:\Users\khali\source\repos\Func Delegate test 3\bin\Debug\Func Delegate test 3.exe
-C:\Users\khali\source\repos\Func Delegate test 3\bin\Debug\Func Delegate test 3.pdb
-C:\Users\khali\source\repos\Func Delegate test 3\obj\Debug\Func Delegate test 3.csproj.AssemblyReference.cache
-C:\Users\khali\source\repos\Func Delegate test 3\obj\Debug\Func Delegate test 3.csproj.CoreCompileInputs.cache
-C:\Users\khali\source\repos\Func Delegate test 3\obj\Debug\Func Delegate test 3.exe
-C:\Users\khali\source\repos\Func Delegate test 3\obj\Debug\Func Delegate test 3.pdb

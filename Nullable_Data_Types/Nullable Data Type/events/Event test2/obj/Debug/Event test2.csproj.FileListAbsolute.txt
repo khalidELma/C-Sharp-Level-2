@@ -1,7 +1,0 @@
-C:\Users\khali\source\repos\Event test2\bin\Debug\Event test2.exe.config
-C:\Users\khali\source\repos\Event test2\bin\Debug\Event test2.exe
-C:\Users\khali\source\repos\Event test2\bin\Debug\Event test2.pdb
-C:\Users\khali\source\repos\Event test2\obj\Debug\Event test2.csproj.AssemblyReference.cache
-C:\Users\khali\source\repos\Event test2\obj\Debug\Event test2.csproj.CoreCompileInputs.cache
-C:\Users\khali\source\repos\Event test2\obj\Debug\Event test2.exe
-C:\Users\khali\source\repos\Event test2\obj\Debug\Event test2.pdb

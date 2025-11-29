@@ -1,7 +1,0 @@
-C:\Users\khali\source\repos\Binary Serialization\bin\Debug\Binary Serialization.exe.config
-C:\Users\khali\source\repos\Binary Serialization\bin\Debug\Binary Serialization.exe
-C:\Users\khali\source\repos\Binary Serialization\bin\Debug\Binary Serialization.pdb
-C:\Users\khali\source\repos\Binary Serialization\obj\Debug\Binary Serialization.csproj.AssemblyReference.cache
-C:\Users\khali\source\repos\Binary Serialization\obj\Debug\Binary Serialization.csproj.CoreCompileInputs.cache
-C:\Users\khali\source\repos\Binary Serialization\obj\Debug\Binary Serialization.exe
-C:\Users\khali\source\repos\Binary Serialization\obj\Debug\Binary Serialization.pdb
